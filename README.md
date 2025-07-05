@@ -30,6 +30,20 @@ A simple weather forecast application that shows real-time weather conditions fo
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Weather App UI Example
+
+![Weather UI](https://raw.githubusercontent.com/hemanth592-sr/Weather-app/main/screenshots/weather-ui.png)
+
+
+## 🙋‍♂️ Author
+
+- **Name**: Sathram Rajendra Hemanth Kumar  
+- **Email**: hemanthkumarsr555@gmail.com  
+- **LinkedIn**: [hemanthkumar-s-r](https://www.linkedin.com/in/hemanthkumar-s-r-ba908a303)  
+
+
 ## 📂 How to Run Locally
 
 1. Clone the repository:
